@@ -1,0 +1,20 @@
+{
+  "name": "Seasonvar --> M3U",
+  "short_name": "Seasonvar",
+  "description": "Дергает ссылки на сериалы с seasonvar.ru. Сохраняет в m3u, txt или можно посмотреть прямо в браузере. Работает с заблочеными сериалами.",
+  "lang": "ru",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "theme_color": "#FF7900",
+  "icons": [
+    {
+      "src": "cat512.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "cat256.png",
+      "sizes": "256x256"
+    }
+  ]
+}
